@@ -1,2 +1,2 @@
 # The repo name describes it all
-## dependencies: firebase, firebase hook, react toast etc
+## dependencies: firebase, react firebase hooks by CSFrequency, react toast etc
